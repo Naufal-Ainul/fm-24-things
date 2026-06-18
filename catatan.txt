@@ -40,3 +40,23 @@ Long-Term Club Score
 │
 └── Squad Age (5%)
     └── Squad Age
+
+2.tugas utama setelah masuk club
+-tentukan pemain yang mau dipertahankan/dijual
+-tentukan karakteristik pemain 
+-buat taktik
+-program latihan
+-transfer pemain
+-scouting
+prioritas:
+70% Wonderkid
+20% First Team
+10% Emergency Transfer
+    ciri pemain :
+    15-18 tahun
+    High Potential
+    Murah
+-evaluasi
+    >apakah taktik berhasill ?
+    >Apakah transfer berhasil?
+    >Apakah akademi menghasilkan pemain bagus?
