@@ -1,0 +1,27 @@
+welcome to fms (football manager shit)
+workflow pregame
+1.memilih club
+must be analyzed:
+-youth facillies
+-training facillities
+-finances
+    >saldo klub
+    >hutang
+    >budget transfer
+    >budget gaji
+-youth recruitment (kemampuan klub menemukan bakat muda)
+-club reputation 
+memengaruhi:
+    >kemampuan menarik pemain
+    >sponsor
+    >pemasukan
+-squad age
+idealnya 20-24 tahun (banyak pemain muda potensial)
+
+Long-Term Club Score
+
+40% Youth Facilities
+25% Finances
+15% Training Facilities
+10% Reputation
+10% Squad Age 
