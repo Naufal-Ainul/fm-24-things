@@ -19,9 +19,24 @@ memengaruhi:
 idealnya 20-24 tahun (banyak pemain muda potensial)
 
 Long-Term Club Score
-
-40% Youth Facilities
-25% Finances
-15% Training Facilities
-10% Reputation
-10% Squad Age 
+│
+├── Youth Facilities (25%)
+│   └── Youth Facilities
+│
+├── Youth Recruitment (20%)
+│   └── Youth Recruitment
+│
+├── Finances (25%)
+│   ├── Balance
+│   ├── Debt
+│   ├── Transfer Budget
+│   └── Wage Budget
+│
+├── Training Facilities (15%)
+│   └── Training Facilities
+│
+├── Reputation (10%)
+│   └── Reputation
+│
+└── Squad Age (5%)
+    └── Squad Age
