@@ -60,3 +60,46 @@ prioritas:
     >apakah taktik berhasill ?
     >Apakah transfer berhasil?
     >Apakah akademi menghasilkan pemain bagus?
+parameter atribut pemain
+-audit pemain
+Name
+Age
+Position
+CA
+PA
+Value
+Wage
+Contract Expiry
+Personality
+Determination
+Average Rating
+
+output:
+KEEP
+SELL
+LOAN
+CORE PLAYER
+WONDERKID
+
+tactical audit
+Passing
+Technique
+First Touch
+Decisions
+Anticipation
+Teamwork
+Work Rate
+Pace
+Acceleration
+Stamina
+Strength
+
+output:
+Recommended Style:
+- Gegenpress
+- Vertical Tiki Taka
+
+Recommended Formation:
+- 4-3-3 DM
+
+transfer audit
