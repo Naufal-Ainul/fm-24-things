@@ -1,0 +1,359 @@
+{
+    "created_at": "2026-06-27T00:01:22.641841",
+    "processed_players_details": [
+        {
+            "squad_name": "Scott Carson",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Marcus Bettinelli",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Ederson",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Stefan Ortega",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Rúben Dias",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Manuel Akanji",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Issa Kaboré",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Kyle Walker",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "John Stones",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Rodri",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Rico Lewis",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Joško Gvardiol",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Nathan Aké",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Rayan Aït-Nouri",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Mateo Kovačić",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Kalvin Phillips",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Tijjani Reijnders",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "İlkay Gündoğan",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Bernardo Silva",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Matheus Nunes",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Jack Grealish",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Phil Foden",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Savinho",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Jérémy Doku",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Omar Marmoush",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        },
+        {
+            "squad_name": "Erling Haaland",
+            "matched_sources": [],
+            "missing_sources": [
+                "tactical"
+            ]
+        }
+    ],
+    "duplicate_tactical_matches": [],
+    "missing_attribute_matches": [
+        {
+            "squad_name": "Scott Carson",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Marcus Bettinelli",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Ederson",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Stefan Ortega",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Rúben Dias",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Manuel Akanji",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Issa Kaboré",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Kyle Walker",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "John Stones",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Rodri",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Rico Lewis",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Joško Gvardiol",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Nathan Aké",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Rayan Aït-Nouri",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Mateo Kovačić",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Kalvin Phillips",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Tijjani Reijnders",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "İlkay Gündoğan",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Bernardo Silva",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Matheus Nunes",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Jack Grealish",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Phil Foden",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Savinho",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Jérémy Doku",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Omar Marmoush",
+            "missing_source": "tactical"
+        },
+        {
+            "squad_name": "Erling Haaland",
+            "missing_source": "tactical"
+        }
+    ],
+    "invalid_players": [],
+    "warnings": [
+        "Player at index 0 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 1 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 2 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 3 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 4 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 5 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 6 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 7 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 8 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 9 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 10 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 11 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 12 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 13 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 14 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 15 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 16 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 17 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 18 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 19 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 20 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 21 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 22 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 23 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 24 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Player at index 25 in tactical data has no 'name' field and will be skipped for indexing.",
+        "Squad player 'Scott Carson' could not be matched with data from 'tactical'.",
+        "Squad player 'Marcus Bettinelli' could not be matched with data from 'tactical'.",
+        "Squad player 'Ederson' could not be matched with data from 'tactical'.",
+        "Squad player 'Stefan Ortega' could not be matched with data from 'tactical'.",
+        "Squad player 'Rúben Dias' could not be matched with data from 'tactical'.",
+        "Squad player 'Manuel Akanji' could not be matched with data from 'tactical'.",
+        "Squad player 'Issa Kaboré' could not be matched with data from 'tactical'.",
+        "Squad player 'Kyle Walker' could not be matched with data from 'tactical'.",
+        "Squad player 'John Stones' could not be matched with data from 'tactical'.",
+        "Squad player 'Rodri' could not be matched with data from 'tactical'.",
+        "Squad player 'Rico Lewis' could not be matched with data from 'tactical'.",
+        "Squad player 'Joško Gvardiol' could not be matched with data from 'tactical'.",
+        "Squad player 'Nathan Aké' could not be matched with data from 'tactical'.",
+        "Squad player 'Rayan Aït-Nouri' could not be matched with data from 'tactical'.",
+        "Squad player 'Mateo Kovačić' could not be matched with data from 'tactical'.",
+        "Squad player 'Kalvin Phillips' could not be matched with data from 'tactical'.",
+        "Squad player 'Tijjani Reijnders' could not be matched with data from 'tactical'.",
+        "Squad player 'İlkay Gündoğan' could not be matched with data from 'tactical'.",
+        "Squad player 'Bernardo Silva' could not be matched with data from 'tactical'.",
+        "Squad player 'Matheus Nunes' could not be matched with data from 'tactical'.",
+        "Squad player 'Jack Grealish' could not be matched with data from 'tactical'.",
+        "Squad player 'Phil Foden' could not be matched with data from 'tactical'.",
+        "Squad player 'Savinho' could not be matched with data from 'tactical'.",
+        "Squad player 'Jérémy Doku' could not be matched with data from 'tactical'.",
+        "Squad player 'Omar Marmoush' could not be matched with data from 'tactical'.",
+        "Squad player 'Erling Haaland' could not be matched with data from 'tactical'."
+    ],
+    "summary": {
+        "total_squad_players": 26,
+        "total_tactical_players": 26,
+        "total_processed_players": 26,
+        "total_missing_attribute_matches": 26,
+        "total_duplicate_tactical_matches": 0,
+        "total_invalid_players": 0,
+        "total_warnings": 52,
+        "execution_time_seconds": 0.01
+    }
+}

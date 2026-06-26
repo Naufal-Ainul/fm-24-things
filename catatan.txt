@@ -67,8 +67,7 @@ Age
 Position
 CA
 PA
-Value
-Wage
+salary
 Contract Expiry
 Personality
 Determination
